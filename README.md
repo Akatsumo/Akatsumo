@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://graph.org/file/77628f40a180083b21744-91e038b0844543e8f6.jpg" />
+  <img src="https://graph.org/file/3a13d47d66ba4e979e60c-63ffe769ad6131f0c5.jpg" />
 </div>
 
 <div align="center">
