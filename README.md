@@ -31,19 +31,19 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 
 ## 📊 GitHub Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Akatsumo&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="Akatsumo Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsumo&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akatsumo&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
+
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Akatsumo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="45%" />
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsumo&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="45%" />
+
+  <br><br>
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akatsumo&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
+
 </div>
+
 
 ---
 
