@@ -32,15 +32,12 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Akatsumo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="45%" />
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsumo&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="45%" />
-
-  <br><br>
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akatsumo&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
+<a href="https://github.com/Akatsumo">
+<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akatsumo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="center"/>
+</a>
+<a href="https://github.com/Akatsumo">
+<img height="200em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akatsumo&layout=compact&langs_count=10&theme=dark" align="center"/>
+</a>
 
 </div>
 
