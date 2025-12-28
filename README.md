@@ -64,5 +64,5 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://graph.org/file/652d1f686f44375956f77-50998bf63bd8663563.jpg" />
 </div>
