@@ -30,15 +30,17 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/Akatsumo">
-    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akatsumo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="center" />
+<div align="center">
+
+  <a href="https://github.com/Akatsumo">
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akatsumo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="center" style="margin-right: 10px;" />
   </a>
 
   <a href="https://github.com/Akatsumo">
-    <img height="200em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akatsumo&layout=compact&langs_count=10&theme=dark" align="center" />
+    <img height="200em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akatsumo&layout=compact&langs_count=10&theme=dark" align="center" style="margin-left: 10px;" />
   </a>
 
-
+</div>
 
 ---
 
