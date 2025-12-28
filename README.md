@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Namaste%20🙏%20I'm%20Sumit%20Yadav&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://graph.org/file/77628f40a180083b21744-91e038b0844543e8f6.jpg" />
 </div>
 
 <div align="center">
