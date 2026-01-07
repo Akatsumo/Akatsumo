@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://graph.org/file/3a13d47d66ba4e979e60c-63ffe769ad6131f0c5.jpg" />
+  <img src="https://medialoom-d83dbabb0070.herokuapp.com/file/b464ec209c2a2277b881.jfif" />
 </div>
 
 <div align="center">
@@ -64,5 +64,5 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 </div>
 
 <div align="center">
-  <img src="https://graph.org/file/652d1f686f44375956f77-50998bf63bd8663563.jpg" />
+  <img src="https://medialoom-d83dbabb0070.herokuapp.com/file/9d4ddf2a8ab739f469f6.jfif" />
 </div>
