@@ -24,7 +24,7 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,aws,figma,cpp,java,tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,cpp,java,tensorflow,pytorch,sklearn" />
 </p>
 
 ---
