@@ -17,7 +17,7 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 
 - 🔭 Currently building **Full-Stack Web Applications**
 - 🌱 Learning **Advanced Deep Learning, Cloud Computing & Scalable Systems**
-- 💬 Ask me about **Python, JavaScript, React, Node.js, or AI/ML**
+- 💬 Ask me about **Python, JavaScript, React, Node.js**
 - ⚡ Fun fact: I write code that’s clean, efficient, and maintainable—like a Zen garden.
 
 ---
@@ -54,14 +54,6 @@ I enjoy turning ideas into applications and constantly learning to sharpen my sk
 </div>
 
 ---
-
-## ☕ Support Me
-<div align="center">
-  <a href="https://www.buymeacoffee.com/sumitdev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 200px !important; border-radius: 10px;" >
-  </a>
-  <p>Support me with a coffee and keep me coding! ☕</p>
-</div>
 
 <div align="center">
   <img src="https://medialoom-d83dbabb0070.herokuapp.com/file/9d4ddf2a8ab739f469f6.jfif" />
