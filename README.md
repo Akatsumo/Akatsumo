@@ -11,11 +11,12 @@
 ---
 
 ## ⚡ About Me
-Hello! I’m Sumit Yadav, a Full Stack Developer who loves turning ideas into simple and efficient web applications. I enjoy building projects and improving my coding skills.
+Hello! I’m Sumit Yadav, **Full Stack Developer** who enjoys building simple, efficient, and scalable web applications. I love turning ideas into real-world projects and continuously improving my skills.
 
-🌱 Currently learning C++ & Java
-🚀 Interested in building practical and scalable projects
-⚡ Fun fact: I like keeping my code clean and minimal—no unnecessary clutter
+- 🌱 Currently learning **C++ & Java**
+- 🚀 Focused on practical, project-based development
+- ⚡ I believe in clean, readable, and maintainable code
+
 ---
 
 ## 🛠️ Tech Stack & Tools
