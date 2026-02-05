@@ -11,15 +11,11 @@
 ---
 
 ## ⚡ About Me
-Hello! I'm **Sumit Yadav**, a passionate **Full Stack Developer** and **AI/ML enthusiast**. I love creating efficient and elegant solutions that make life easier and exploring cutting-edge technologies to push the boundaries of what's possible.  
+Hello! I’m Sumit Yadav, a Full Stack Developer who loves turning ideas into simple and efficient web applications. I enjoy building projects and improving my coding skills.
 
-I enjoy turning ideas into applications and constantly learning to sharpen my skills.
-
-- 🔭 Currently building **Full-Stack Web Applications**
-- 🌱 Learning **Advanced Deep Learning, Cloud Computing & Scalable Systems**
-- 💬 Ask me about **Python, JavaScript, React, Node.js**
-- ⚡ Fun fact: I write code that’s clean, efficient, and maintainable—like a Zen garden.
-
+🌱 Currently learning C++ & Java
+🚀 Interested in building practical and scalable projects
+⚡ Fun fact: I like keeping my code clean and minimal—no unnecessary clutter
 ---
 
 ## 🛠️ Tech Stack & Tools
