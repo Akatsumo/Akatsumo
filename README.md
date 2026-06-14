@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://medialoom-d83dbabb0070.herokuapp.com/file/b464ec209c2a2277b881.jfif" />
+  <img src="https://media.animerealms.org/image/AgACAgUAAx0EboWBewAC96lqLjs97HOPNCzI_1FGYD_ZyzJxuwACwhBrG57EcVUPiJAPel-iKwEAAwIAA3kAAzwE" />
 </div>
 
 <div align="center">
@@ -50,5 +50,5 @@ Hello! I’m Sumit Yadav, **Full Stack Developer** who enjoys building simple, e
 ---
 
 <div align="center">
-  <img src="https://medialoom-d83dbabb0070.herokuapp.com/file/9d4ddf2a8ab739f469f6.jfif" />
+  <img src="https://media.animerealms.org/image/AgACAgUAAx0EboWBewAC96pqLjwXD_auc98bYgX_jn5vl905bwACxBBrG57EcVVrtWfM_IJGXQEAAwIAA3kAAzwE" />
 </div>
