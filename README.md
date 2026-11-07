@@ -50,5 +50,5 @@ Hello! I’m Sumit Yadav, **Full Stack Developer** who enjoys building simple, e
 ---
 
 <div align="center">
-  <img src="https://fliik-tau.vercel.app/file/MzE.jpg" alt="coffe" border="0">
+  <img src="https://files.catbox.moe/3zz97w.jpg" alt="nature" border="0">
 </div>
