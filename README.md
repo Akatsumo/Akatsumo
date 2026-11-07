@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/lkxvnl.jpg" />
+  <img src="https://files.catbox.moe/fnt4pv.jpg" />
 </div>
 
 <div align="center">
