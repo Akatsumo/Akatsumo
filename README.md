@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://fliik-tau.vercel.app/file/Mjk.jpg" />
+  <img src="https://files.catbox.moe/lkxvnl.jpg" />
 </div>
 
 <div align="center">
